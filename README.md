@@ -1,5 +1,4 @@
 # FirstProject
 First test in GitHub
 editing this file
-hoping everything works by tthe end of the tutorial
-getting really into this 
+hoping everything works by tthe end of the tutorial 
